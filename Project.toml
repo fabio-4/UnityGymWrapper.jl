@@ -1,0 +1,8 @@
+name = "UnityGymWrapper"
+uuid = "ded6eedc-e2fc-495f-95c6-a8b10e8f8235"
+authors = ["fabio-4 <65510654+fabio-4@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
